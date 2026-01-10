@@ -96,7 +96,6 @@ UPI payment flow research and Indian digital payment system analysis. Open to te
 
 If you are working on UPI wallet integration or payment systems
 and are interested in technical discussion or collaboration,
-feel free to open an issue or contact via email:
 
 飞机号：@Owen58815
 
